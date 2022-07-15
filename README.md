@@ -1,5 +1,4 @@
 # 이형준
-------------------------
 <div align="right"> hjlee1765@gmail.com<br>010-3007-1765</div>
 
 ## 1. Education 
