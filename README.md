@@ -24,7 +24,7 @@
 
 **JAVA**
 ```
-Java8, Kotlin, Spring Boot, JPA, Webflux
+Java, Kotlin, SpringBoot, JPA, Webflux
 ```
 **MS**
 ```
