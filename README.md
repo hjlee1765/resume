@@ -1,5 +1,6 @@
 # 이형준
-<div style="text-align: right"> hjlee1765@gmail.com<br>010-3007-1765</div>
+------------------------
+<div align="right"> hjlee1765@gmail.com<br>010-3007-1765</div>
 
 ## 1. Education 
 **국민대학교**
